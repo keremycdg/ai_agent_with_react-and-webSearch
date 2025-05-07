@@ -12,6 +12,6 @@ This project is created as an assignment of ITAI-2376 Course. The AI Agent has W
 7. Here you go! You have your AI Research Agent Tool to go through web and cite the findings for you!
 
 
-<img src="https://github.com/user-attachments/assets/28dc3eda-2177-4889-af71-eac4d75d217b" alt="requirements" width="600" height="400">
+<img src="https://github.com/user-attachments/assets/28dc3eda-2177-4889-af71-eac4d75d217b" alt="requirements" width="750" height="400">
 
-<img src="https://github.com/user-attachments/assets/abf64f96-2167-43b5-b919-97fe0f51dfba" alt="requirements" width="600" height="400">
+<img src="https://github.com/user-attachments/assets/abf64f96-2167-43b5-b919-97fe0f51dfba" alt="requirements" width="750" height="400">
